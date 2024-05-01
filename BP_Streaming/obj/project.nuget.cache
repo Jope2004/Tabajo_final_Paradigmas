@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "twAxqCUQIR7q2XgF5t10p/8yh8qR1PVd65EOhGsGgWzbQBUs7smSwQZa/Y0dLKpWd68H8Pzd7UqBInf4gGpRrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\juanp\\Desktop\\SEGUNDO SEMESTRE\\PO\\P_final_paradigmas\\BP_Streaming\\BP_Streaming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.24\\microsoft.windowsdesktop.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.24\\microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "C:\\Users\\juanp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.24\\microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}
